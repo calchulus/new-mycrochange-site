@@ -1,0 +1,7 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/magicalvin/pen/LzGBqa.
+
+ Interactive input form built with just CSS. Abusing focus state & labels to handle transitions & navigation.
+
+Navigate between inputs using **Tab** (Next) & **Shift + Tab** (Prev).
+
+Pure CSS. No JS included.
